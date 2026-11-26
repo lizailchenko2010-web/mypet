@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Медіатека</title>
+<style>
+body {
+  background: #f3e9df;
+  font-family: Arial;
+  text-align: center;
+  padding: 25px;
+}
+h1 { color: #704c3b; }
+.box {
+  background: white;
+  padding: 25px;
+  margin: 20px auto;
+  max-width: 400px;
+  border-radius: 18px;
+}
+a { color: #8b5e48; font-size: 20px; }
+audio { width: 100%; }
+</style>
+</head>
+<body>
+
+<h1>Мій домашній улюбленець 🐾</h1>
+<h2>Медіатека</h2>
+
+<div class="box">
+<h3>🎵 Моя розповідь</h3>
+<audio controls>
+<source src="rozpovid.m4a" type="audio/mp4">
+</audio>
+</div>
+
+<div class="box">
+<h3>📹 Відео</h3>
+<a href="video.html">Переглянути відео</a>
+</div>
+
+</body>
+</html>
