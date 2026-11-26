@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Мій домашній улюбленець</title>
+<style>
+body {
+  background: #f3e9df;
+  font-family: Arial;
+  text-align: center;
+  padding: 20px;
+}
+h1 { color: #704c3b; }
+video {
+  width: 100%;
+  max-width: 800px;
+  border-radius: 15px;
+}
+</style>
+</head>
+<body>
+
+<h1>Мій домашній улюбленець 🐱</h1>
+
+<video controls>
+<source src="video.mp4" type="video/mp4">
+</video>
+
+<p>Автор: Єлизавета  Ільченко</p>
+<p>Клас: 11-Б</p>
+
+</body>
+</html>
